@@ -1,0 +1,36 @@
+{
+  "name": "Utility NFT 2",
+  "symbol": "Biz",
+  "description": "Utility NFT on a platform of NFTs for businesses and customer loyalty programs",
+  "seller_fee_basis_points": 800, 
+  "image": "https://drive.google.com/uc?export=view&id=1KP1BKLYmMnMGescO4pv3nSNTcEZKSRrR", 
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Company name here"
+    },
+    {
+      "trait_type": "Reward",
+      "value": "Some sort of benefit on the site"
+    }
+  ],
+  "collection": {
+    "name": "Biz NFTs",
+    "family": "not sure what collection family is"
+  },
+  "properties": {
+    "files": [ 
+      {
+        "uri": "https://drive.google.com/uc?export=view&id=1KP1BKLYmMnMGescO4pv3nSNTcEZKSRrR",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6gHtRckgbXmRtXkkCx5vhAh9jBUC3AuXTgmhi9gMHMVM",
+        "share": 100
+      }
+    ]
+  }
+}
